@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\UE5Project\\UnrealEngine-CPP\\Prototype\\Source\\Prototype\\Prototype.Build.cs",
+		"D:\\UE5Project\\UnrealEngine-CPP\\Prototype\\Source\\Prototype.Target.cs",
+		"D:\\UE5Project\\UnrealEngine-CPP\\Prototype\\Source\\PrototypeEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.0"
+}

@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Prototype.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\UE5Project\UnrealEngine-CPP\Prototype\Intermediate\Build\Win64\PrototypeEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\UE5Project\UnrealEngine-CPP\Prototype\Intermediate\Build\Win64\UnrealEditor\Development\Prototype\Prototype.cpp.obj"
+"D:\UE5Project\UnrealEngine-CPP\Prototype\Intermediate\Build\Win64\UnrealEditor\Development\Prototype\PrototypeGameModeBase.cpp.obj"
+"D:\UE5Project\UnrealEngine-CPP\Prototype\Intermediate\Build\Win64\UnrealEditor\Development\Prototype\Prototype.init.gen.cpp.obj"
+"D:\UE5Project\UnrealEngine-CPP\Prototype\Intermediate\Build\Win64\UnrealEditor\Development\Prototype\PrototypeGameModeBase.gen.cpp.obj"
+"D:\UE5Project\UnrealEngine-CPP\Prototype\Intermediate\Build\Win64\UnrealEditor\Development\Prototype\Default.rc2.res"
+/OUT:"D:\UE5Project\UnrealEngine-CPP\Prototype\Intermediate\Build\Win64\UnrealEditor\Development\Prototype\UnrealEditor-Prototype.lib"
+/INCLUDE:IMPLEMENT_MODULE_Prototype
